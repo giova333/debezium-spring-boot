@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.gladunalexander.debezium.autoconfigure.DebeziumAutoconfiguration
+
+org.springframework.boot.diagnostics.FailureAnalyzer=\
+  com.gladunalexander.debezium.autoconfigure.ArgumentNotOfRequiredTypeFailureAnalyzer
